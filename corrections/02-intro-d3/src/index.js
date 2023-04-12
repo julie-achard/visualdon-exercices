@@ -1,6 +1,7 @@
 import * as d3 from "d3";
 
-d3.select("body").append("div").attr("class", "monSVG");
+// Append svg
+select("body").append("div").attr("class", "monSVG");
 
 const WIDTH = 500;
 const HEIGHT = 500;
