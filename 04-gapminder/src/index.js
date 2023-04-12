@@ -241,5 +241,5 @@ function updateChart(data_iteration) {
     );
 }
 
-//document.getElementById("play").addEventListener("click", animate);
-//document.getElementById("stop").addEventListener("click", stop);
+document.getElementById("play").addEventListener("click", animate);
+document.getElementById("stop").addEventListener("click", stop);
